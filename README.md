@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub!
 
-Hi there! I'm a passionate developer working with **Python**, **HTML**, and **CSS**. Below, you'll find a detailed overview of the technologies I use, my skills, and the exciting projects I'm working on.
+Hi there! I'm a passionate developer working with **Python**, **HTML**, and **CSS**. Below, you'll find a detailed overview of the technologies I use, my skills, and some projects I'm working on.
 
 ---
 
