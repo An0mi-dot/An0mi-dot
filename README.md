@@ -1,37 +1,29 @@
-# 🌟 Welcome to My GitHub!
 
-Hi there! I'm a passionate developer working with **Python**, **HTML**, and **CSS**. Below, you'll find a detailed overview of the technologies I use, my skills, and some projects I'm working on.
 
----
+👋 Hello! 🐭
 
-## 💻 Skills
+Hi there! I'm a passionate developer always looking to learn more and improve my skills. I have solid experience in Python 🐍, and good knowledge of HTML 🧱 and CSS 🎨.
 
-### Programming Languages:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) **Python**  
-  My main programming language for automation, data analysis, and building applications.
+Currently, I'm learning:
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff) **HTML**  
-  Proficient in building structured web pages with semantic HTML.
+Java ☕
 
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff) **CSS**  
-  Skilled in styling websites and creating responsive layouts.
+C++ 💻
 
----
+JavaScript 🌐
 
-## 🚧 Current Projects
 
-Here's what I'm currently working on:
+🔨 Skills
 
-- **Website for a Tabletop RPG**:  
-  Developing a website to showcase and support a **Tabletop RPG** project, with content, rules, and community features.
+Python 🐍 — strong understanding, used in several personal projects
 
-- **Python Projects**:  
-  Developing scripts to automate tasks and explore new ideas.
+HTML & CSS 🎨 — good grasp of web structure and styling
 
----
+Currently learning: Java ☕, C++ 💻, JavaScript 🌐
 
-## 🌱 Future Plans
 
-- Continue improving my skills in **Python** and explore new libraries and frameworks.
-- Experiment with JavaScript to expand my web development capabilities.
-- Work on more complex projects and collaborate with others to sharpen my skills.
+🚧 Projects
+
+I've built some personal projects to practice and grow.
+Right now, I'm developing a website centered around my own tabletop RPG 🧙‍♂️ — a creative and technical project to improve my web development skills.
+
